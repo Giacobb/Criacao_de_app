@@ -657,3 +657,10 @@ table {
     color: #0062FF ;
     border: none;
 }
+.a1{
+    color: #0062FF ;
+}
+.review{
+    gap: 26px;
+    word-spacing: 26px;
+}
